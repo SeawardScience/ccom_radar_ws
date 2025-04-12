@@ -1,0 +1,3 @@
+[submodule "src/unh_marine_radar"]
+	path = src/unh_marine_radar
+	url = https://github.com/SeawardScience/unh_marine_radar.git
