@@ -1,3 +1,12 @@
 [submodule "src/unh_marine_radar"]
 	path = src/unh_marine_radar
 	url = https://github.com/SeawardScience/unh_marine_radar.git
+[submodule "src/mru_transform"]
+	path = src/mru_transform
+	url = https://github.com/SeawardScience/mru_transform.git
+[submodule "src/project11"]
+	path = src/project11
+	url = https://github.com/rolker/project11.git
+[submodule "src/project11_msgs"]
+	path = src/project11_msgs
+	url = https://github.com/rolker/project11_msgs.git
