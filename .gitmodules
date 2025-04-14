@@ -13,3 +13,7 @@
 [submodule "src/echoflow"]
 	path = src/echoflow
 	url = git@github.com:SeawardScience/echoflow.git
+[submodule "src/rqt_marine_radar"]
+	path = src/rqt_marine_radar
+	url = git@github.com:SeawardScience/rqt_marine_radar.git
+	branch = migration/ros2
