@@ -10,3 +10,6 @@
 [submodule "src/project11_msgs"]
 	path = src/project11_msgs
 	url = https://github.com/rolker/project11_msgs.git
+[submodule "src/echoflow"]
+	path = src/echoflow
+	url = https://github.com/SeawardScience/echoflow.git

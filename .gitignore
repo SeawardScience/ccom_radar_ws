@@ -4,3 +4,9 @@ build/
 install/
 
 log/
+
+.qtc*
+
+_*
+
+*.workspace
